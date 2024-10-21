@@ -1,1 +1,0 @@
-let numbersofstudent=(3)
